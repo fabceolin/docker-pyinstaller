@@ -2,8 +2,6 @@ name: build_amd64
 
 on:
   push:
-    branches:
-      - 'master'
 
 jobs:
   docker:
